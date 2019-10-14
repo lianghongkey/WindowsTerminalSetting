@@ -228,7 +228,7 @@
     [
         {
             "acrylicOpacity" : 0.5,
-            "background" : "#F8F8F8",
+            "background" : "#FFFFFF",
             "closeOnExit" : true,
             "colorScheme" : "colin",
             "commandline" : "powershell.exe ssh colin@192.168.100.18",
@@ -304,7 +304,7 @@
     "schemes" : 
     [
         {
-            "background" : "#F0F0F0",
+            "background" : "#FFFFFF",
             "black" : "#000000",
             "blue" : "#0000B0",
             "brightBlack" : "#A0A0A0",
@@ -313,7 +313,7 @@
             "brightGreen" : "#00C000",
             "brightPurple" : "#F000F0",
             "brightRed" : "#C00000",
-            "brightWhite" : "#F0F0F0",
+            "brightWhite" : "#C0C0C0",
             "brightYellow" : "#F0F000",
             "cyan" : "#00B0B0",
             "foreground" : "#000000",
