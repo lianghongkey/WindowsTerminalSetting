@@ -228,7 +228,7 @@
     [
         {
             "acrylicOpacity" : 0.5,
-            "background" : "#FFFFFF",
+            "background" : "#F8F8F8",
             "closeOnExit" : true,
             "colorScheme" : "colin",
             "commandline" : "powershell.exe ssh colin@192.168.100.18",
